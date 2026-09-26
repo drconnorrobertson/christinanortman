@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://christinanortmancpa.com/sitemap.xml
+
+Sitemap: https://www.christinanortmancpa.com/sitemap.xml
