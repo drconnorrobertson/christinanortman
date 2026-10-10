@@ -1,0 +1,48 @@
+{
+  "repo": "christinanortman",
+  "domain": "www.christinanortmancpa.com",
+  "label": "Christina Nortman, CPA",
+  "eyebrow": "Meet the professionals behind the plan",
+  "headline": "Thoughtful tax planning starts with a clear conversation.",
+  "intro": "Learn about Christina Nortman, CPA, and explore AE Tax Advisors\u2019 approach to business and real estate tax planning. Bring the right records and questions to your first advisory discussion.",
+  "service": "/bios/",
+  "role": "Professional profile and service orientation",
+  "topics": [
+    [
+      "Professional profile",
+      "/profile/",
+      "Read the background published on this site."
+    ],
+    [
+      "The AE team",
+      "https://www.aetaxadvisors.com/bios/",
+      "Meet the professionals at AE Tax Advisors."
+    ],
+    [
+      "Advisory services",
+      "https://www.aetaxadvisors.com/services/",
+      "Find the service that matches your planning needs."
+    ]
+  ],
+  "prepare": [
+    "The business or property decision you need to resolve",
+    "The relevant entities and ownership",
+    "Recent returns and current financial information",
+    "Your priorities and expected timeline"
+  ],
+  "steps": [
+    [
+      "Share the context",
+      "Explain the decision and the people involved."
+    ],
+    [
+      "Clarify the scope",
+      "Understand which professional and service fit the work."
+    ],
+    [
+      "Prepare the records",
+      "Agree on the information needed for analysis."
+    ]
+  ],
+  "generated": false
+}
