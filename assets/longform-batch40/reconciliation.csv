@@ -1,0 +1,8 @@
+fictional_item,comparison_side,signed_amount_USD,scope
+Statement starting balance,bank,12000,Original fictional cutoff amount
+Deposit in transit,bank,2500,Already recorded in books
+Outstanding payments,bank,-1800,Already recorded in books
+Book starting balance,books,12765,Before stipulated changes
+Unrecorded bank fee,books,-40,Proposed book-side comparison change
+Unrecorded interest,books,15,Proposed book-side comparison change
+Payment recording error,books,-40,Recorded560 supported600 in fictional facts
