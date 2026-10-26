@@ -1,0 +1,4 @@
+fictional_request,current_view,proposed_view,amount,status
+COA-DEMO,General Marketing,Advertising purchases,1200,proposal only
+COA-DEMO,General Marketing,Software subscriptions,800,proposal only
+COA-DEMO,General Marketing,Combined comparison,2000,not an import file
